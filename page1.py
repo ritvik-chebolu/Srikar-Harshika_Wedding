@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.markdown("<h1 style='text-align: center; color: blue;'>Srikar &hearts; Harshika</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: pink;'>Srikar &hearts; Harshika</h1>", unsafe_allow_html=True)
 st.balloons()
 
 st.write("We are pleased to invite you to the wedding of Srikar with Harshika.")
