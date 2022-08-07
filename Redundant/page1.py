@@ -10,7 +10,7 @@ st.write("Here's a little background about Dr. Harshika:")
 col1, col2 = st.columns(2)
 
 with col1:
-    hasi = Image.open('Harshika.jpg')
+    hasi = Image.open('../Harshika.jpg')
     col1.header("The Bride")
     col1.image(hasi, use_column_width = True)
 

@@ -26,6 +26,6 @@ with col2:
     st.write("    ")
     st.write("    ")
     st.write("    ")
-    srikar = Image.open('Srikar.jpeg')
+    srikar = Image.open('../Srikar.jpeg')
     col2.image(srikar, use_column_width=True)
 
